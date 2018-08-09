@@ -1,0 +1,21 @@
+/* 
+ * prism reset css 
+ */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.token.selector {
+  color: black;
+}
+.token.property {
+  color: black;
+}
+.toke.function {
+  color: black;
+}
+#code {
+  height: 100vh;
+  overflow: hidden;
+}
